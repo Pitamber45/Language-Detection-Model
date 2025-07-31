@@ -1,6 +1,7 @@
 # Language-Detection-Model
 
-Language Detection Model
+
+
 ◦ Built a text classification model to detect the language of given text inputs using Natural Language Processing (NLP) techniques.
 
 ◦ Performed data preprocessing and cleaning using pandas and NumPy, including handling missing values and text normalization.
